@@ -44,11 +44,12 @@
 
 .avatar{
     width: 100%;
+    border-radius: 5px;
 }
 
 .nombres-tarjetas{
     color: white;
-    font-size: 40px;
+    font-size: 2rem;
      text-shadow: 2px 0 0 black, -2px 0 0 black, 0 2px 0 black, 0 -2px 0 black, 1px 1px black, -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black;
 }
 
