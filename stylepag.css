@@ -1,3 +1,5 @@
+
+
 .botonbusqueda {
     border: orangered solid 2px;
     color: orangered;
@@ -40,9 +42,13 @@
     letter-spacing: .03rem;
 }
 
+.avatar{
+    width: 100%;
+}
+
 .footer {
     margin-top: 50px;
-    width: 100%;
+    width: 100vw;
     height: 150px;
     background-color: blueviolet;
 }
