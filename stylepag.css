@@ -1,0 +1,41 @@
+.botonbusqueda {
+    border: orangered solid 2px;
+    color: orangered;
+    background-color: white;
+}
+
+
+
+.btn{
+    color: orangered;
+}
+.btn:hover {
+    color: white;
+    background-color: orangered;
+}
+
+.titulopag{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: bolder;
+    margin-top: 15px ;
+    margin-bottom: 35px;
+    font-size: 45px;
+}
+
+.imagen1{
+    margin-left: 15px;
+}
+
+.cards{
+    margin-top: 50px;
+    margin-left: 50px;
+    
+}
+
+.texto{
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    border: 25px; ;
+   
+}
